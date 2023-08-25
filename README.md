@@ -6,7 +6,7 @@ Useful items that she has found here.
 - [Applications](#applications)
 - [Historical](#historical)
 - [Tutorials (off-site)](#tutorials-off-site)
-- [Informational](#informational)
+- [Miscellaneous](#miscellaneous)
 - [Books](#books)
 
 ## STB Libraries
@@ -48,10 +48,11 @@ Those that we've used the most have so far been:
 | [Lazyfoo SDL](https://lazyfoo.net/tutorials/SDL/index.php) | SDL | Quick and dirty tutorial for getting basic game programming started with SDL2. |
 | [Gaffer on Games](https://gafferongames.com/post/udp_vs_tcp/) | Networking | High level primer on starting out with game networking programming concepts. |
 
-## Informational
+## Miscellaneous
 | Resource  | Genre |  Description |
 |:---|:---:|:---|
 | [chars.txt](https://github.com/codebox/homoglyph/blob/master/raw_data/chars.txt) | Unicode | Raw list of Unicode Look-Alikes |
+| [Mahjong Tiles](https://github.com/FluffyStuff/riichi-mahjong-tiles) | Images | Nice Apache-licensed mahjong tiles. |
 | []() |  |  |
 
 ## Books
